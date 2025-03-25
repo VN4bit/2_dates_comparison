@@ -3,6 +3,8 @@
 ## Overview
 This project automates the comparison of delivery dates for components in an ERP simulation using Excel. The process determines the latest delivery date of two components and enters it into the corresponding column. The implementation was carried out using **AutoHotkey V2.0**.
 
+![alt text](https://github.com/VN4bit/2_dates_comparison/blob/e7f608fb13f703fd1d9395d8838efcd6d53b676a/excel.gif)
+
 ## Functionality
 The robot processes an ERP file (simulated with Excel) and compares the delivery dates of two components. The later date is automatically entered into the **Actual Delivery Date** column.
 
@@ -29,4 +31,3 @@ The robot processes an ERP file (simulated with Excel) and compares the delivery
 2. Start the AHK script.
 3. The script automatically compares and updates the data.
 4. The process stops when no more data is available for comparison.
-
