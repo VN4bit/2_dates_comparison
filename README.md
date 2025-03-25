@@ -1,12 +1,17 @@
 # Comparison of Delivery Dates
 
 ## Overview
-This project automates the comparison of delivery dates for components in an ERP simulation using Excel. The process determines the latest delivery date of two components and enters it into the corresponding column. The implementation was carried out using **AutoHotkey V2.0**.
+This project automates the comparison of delivery dates for components in an ERP simulation using Excel. 
+The process determines the latest delivery date of two components and enters it into the corresponding column.
+The development of this project is a result of my bachelor thesis with the titel 
+**Potential of open source attended robotic process automation for small and medium-sized companies in procurement logistics:
+Use case for application of AutoHotkey**.
+The implementation was carried out using **AutoHotkey V2.0**.
 
 ![alt text](https://github.com/VN4bit/2_dates_comparison/blob/e7f608fb13f703fd1d9395d8838efcd6d53b676a/excel.gif)
 
 ## Functionality
-The robot processes an ERP file (simulated with Excel) and compares the delivery dates of two components. The later date is automatically entered into the **Actual Delivery Date** column.
+The robot processes the ERP information (simulated with Excel) and compares the delivery dates of two components. The later date is automatically entered into the **Actual Delivery Date** column.
 
 ## Implementation
 ### Custom Programming
