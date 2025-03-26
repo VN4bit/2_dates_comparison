@@ -11,7 +11,7 @@ Use case for the application of AutoHotkey**.
 
 The implementation was carried out using **AutoHotkey V2.0**.
 
-![alt text](https://github.com/VN4bit/2_dates_comparison/blob/e7f608fb13f703fd1d9395d8838efcd6d53b676a/excel.gif)
+![alt text](https://github.com/VN4bit/2_dates_comparison/blob/main/gifs/excel.gif)
 
 ## Functionality
 The robot processes the ERP information (simulated with Excel) and compares the delivery dates of two components. The later date is automatically entered into the **Actual Delivery Date** column.
