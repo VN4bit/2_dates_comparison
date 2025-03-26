@@ -5,9 +5,9 @@ This project automates the comparison of delivery dates for components in an ERP
 The process determines the latest delivery date of two components and enters it into the corresponding column.
 The development of this project is a result of my bachelor thesis with the titel
 
-**Potentials of open source attended Robotic Process Automation for small and
+**[Potentials of open source attended Robotic Process Automation for small and
 medium-sized enterprises in procurement logistics:<br>
-Use case for the application of AutoHotkey**.
+Use case for the application of AutoHotkey](https://vn4bit.github.io/portfolio/thesisEN.html)**.
 
 The implementation was carried out using **AutoHotkey V2.0**.
 
