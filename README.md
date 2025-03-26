@@ -36,5 +36,3 @@ The robot processes the ERP information (simulated with Excel) and compares the 
 ## Usage
 1. The **Excel file** must be open.
 2. Start the AHK script.
-3. The script automatically compares and updates the data.
-4. The process stops when no more data is available for comparison.
